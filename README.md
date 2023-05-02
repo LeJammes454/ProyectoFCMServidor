@@ -14,7 +14,7 @@ Este proyecto es una aplicación de servidor Node.js simple que utiliza el SDK d
 
 _bash_ 
 ```
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/LeJammes454/ProyectoFCMServidor.git
 ```
 
 2.  Navega a la carpeta del proyecto en la terminal o línea de comandos.
