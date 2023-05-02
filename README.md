@@ -22,7 +22,7 @@ git clone https://github.com/LeJammes454/ProyectoFCMServidor.git
 
 _bash_ 
 ```
-cd <your-repo-name>
+cd <D:\Itsur\ProgMovil.ll> #ejemplo
 ```
 
 
@@ -58,3 +58,5 @@ node app.js
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.
+
+
